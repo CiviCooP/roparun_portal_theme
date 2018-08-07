@@ -86,7 +86,7 @@
  */
 ?>
 <?php
-$theme_path = drupal_get_path('theme', 'roparun');
+$theme_path = drupal_get_path('theme', 'roparun_portal');
 ?>
 
 <div class="mm-page mm-slideout">
