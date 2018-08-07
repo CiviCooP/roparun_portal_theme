@@ -1,0 +1,22 @@
+name = Roparun Portal
+description = This is Roparun Portal theme is based on the website theme.
+core = 7.x
+base theme = bootstrap
+
+stylesheets[all][] = css/jquery.mmenu.all.css
+stylesheets[all][] = css/roparun.css
+
+scripts[] = scripts/fancybox.pack.js
+scripts[] = scripts/fancybox.buttons.js  
+scripts[] = scripts/jquery.mmenu.all.js
+scripts[] = scripts/roparun.js 
+
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+regions[highlighted] = Highlighted
+
+regions[featured] = Featured
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
